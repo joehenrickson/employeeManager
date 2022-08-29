@@ -1,4 +1,7 @@
-VIDEO: /Users/josephhenrickson/Desktop/employeeManager/employeeTracker.mp4
+
+
+## VIDEO: 
+https://user-images.githubusercontent.com/3991446/187104646-91923eec-372d-4513-a82c-3508490fb6a8.mp4
 
 ## User Story
 

@@ -1,4 +1,4 @@
-VIDEO: (employeeTracker.mp4)
+VIDEO: (/Users/josephhenrickson/Desktop/employeeManager/employeeTracker.mp4) 
 
 ## User Story
 

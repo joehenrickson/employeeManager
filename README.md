@@ -75,7 +75,7 @@ Run the following command at the root of your project and answer the prompted qu
 
 ## Contributing
 
-:octocat: [Joe Henrickson](https://github.com/joehenrickson)
+ [Joe Henrickson](https://github.com/joehenrickson)
 
 ## Questions
 

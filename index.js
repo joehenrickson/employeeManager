@@ -232,4 +232,24 @@ const viewDepartments = () => {
   question();
 };
 
+const viewRoles = () => {
+  connection.query('SELECT * FROM roles', (err, roles) => {
+    if (err) {
+      console.log(err);
+    }
+    console.table(roles);
+  });
+  question();
+};
+
+const viewEmployees = () => {
+  connection.query('SELECT * FROM employees', (err, employees) => {
+    if (err) {
+      console.log(err);
+    }
+    console.table(employees);
+  });
+  question();
+};
+
 question();
